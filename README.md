@@ -20,10 +20,6 @@ With *real-time monitoring and tracking capabilities*, Adlyze allows you to opti
 
 ## Demo
 
-Insert gif or link to demo
+[Demo video](https://virtech.s3.ap-northeast-1.amazonaws.com/Techtanic_3min.mp4)
 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
