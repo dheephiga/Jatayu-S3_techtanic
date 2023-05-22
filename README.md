@@ -1,2 +1,29 @@
-# Jatayu-S3_techtanic
-This is the repo submitted for the round 2 of Virtusa Jatayu Season 3 2023
+
+# Virtusa Jatayu 
+## TMT -EAST 1 - AD sales insights provider
+
+Introducing **Adlyze**, the most advanced and comprehensive advertisement analysis system on the market. 
+
+Adlyze provides detailed and *accurate insights into the performance* of your advertisements across broadcasts. 
+
+With *real-time monitoring and tracking capabilities*, Adlyze allows you to optimize your ad campaigns in real-time, and increase conversions and ROI.
+## Tech Stack
+
+**Database :** MongoDB
+
+**Machine-Learning :** Python-Scikit
+
+**Data Visualization:** PowerBI
+
+
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
